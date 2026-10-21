@@ -1,0 +1,6 @@
+{
+  "name": "Newton's Cannon & Escape Velocity Simulation",
+  "description": "Interactive physics simulation of Newton's Cannon, orbital mechanics, escape velocity, and gravitational trajectories with real-time vector analysis and energy diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
